@@ -1,6 +1,6 @@
 # find_package(PkgConfig)
 
-message(STATUS "hello")
+# message(STATUS "hello")
 
 # Threads ---------------------------------------------------------
 find_package(Threads REQUIRED)
